@@ -1,1 +1,34 @@
-# taxonworks_together_2022
+# TaxonWorks Together 2022
+![taxonworks_logo-full](https://user-images.githubusercontent.com/2990155/140569189-ff3a153a-e59a-49ff-9825-ebc5a44a1118.png)
+
+<img src="https://user-images.githubusercontent.com/2990155/180293554-0e8958ca-cbf8-4620-a4a7-3f6bd87df0e6.png" width="150" align="right"/>
+
+
+Sessions daily, September 12-14, on Zoom.  
+Getting here early? Add [an issue or idea for TWTogether 2022](https://github.com/SpeciesFileGroup/taxonworks_together_2022/issues). Questions? Chat now on [![Gitter][3]][2]
+
+Registration Form here soon! You'll be emailed Zoom link(s) prior to the events.
+
+# What
+Our 3rd TaxonWorks Together event (12 - 14 September 2022). Join us for three half-days of activities centered around building the [TaxonWorks](http://taxonworks.org) community.  We'll focus on sharing our latest developments (e.g. progress on public pages, publishing interactive keys, automating workflows, building your taxonomic community, and ways to track project activity) learning from those using or experimenting with TaxonWorks in their taxonomic and digitization workflows. As always, we invite new audiences to join us to gather insights for tailoring future directions. Expect lots of opportunities to ask questions, meet others, learn about TaxonWorks, and contribute to the work and conversation. These activities are open events and your feedback and contributions will make a difference. Some activities will be highly guided, some information style, and some unconference style.   
+ - #### Questions
+   Send email to dlpaul AT illinois DOT edu
+# Who
+Taxonomists, ecologists, curators, collection managers, software developers, biodiversity information scientists. If you have questions about TaxonWorks this is a great time to ask them. Whether you are very familiar with TaxonWorks or new to our community, all are welcome.
+
+# How
+
+Before the event steps
+1. Register (coming soon). You'll be emailed Zoom link(s) prior to/during the events.
+2. **Get a TaxonWorks account** to discover TaxonWorks now -- it's **ready-to-use, no software installation needed.** Send email to dlpaul AT illinois DOT edu
+3. Get a [Github account](https://github.com) (not required, but recommended), an account will help you better participate in many aspects of the community.
+4. New to TaxonWorks? Learn about TaxonWorks features and functions via the [TaxonWorks YouTube videos](https://www.youtube.com/channel/UCKNr7QYwvVFcRfQAcMEAhLw)
+5. [Post ideas, requests, questions](https://github.com/SpeciesFileGroup/taxonworks_together_2021/issues) to be tackled during the week
+6. If you are software developer and you want to hack TaxonWorks itself, please start reading [install_taxonworks](https://github.com/SpeciesFileGroup/install_taxonworks/blob/master/development/README.md). You Don't Need To Install TW locally to use it. (See number 2 above). 
+8. **3 Minutes 1 Slide**: If you would like to present your insights or ideas on a given topic about TaxonWorks, let us know! We'll work it in or add to our post-TaxonWorks Together events. Send email to dlpaul AT illinois DOT edu
+9. Notes doc (coming soon) for TaxonWorks Together 2022
+
+_Scheduled events are subject to minor changes_.  All events will have question / answer / discussion time.
+
+## Agenda
+The agenda is in development. Activities, events, ideas welcome. [Submit them here](https://forms.gle/3gDTwwJJ9R838DZn8)
