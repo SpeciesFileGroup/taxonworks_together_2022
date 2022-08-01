@@ -39,7 +39,8 @@ Monday 12 September
 - Introduction. The state of all things SFG > focus on TaxonWorks and 2021+ highlights
 - Community Talks Lightning use cases (5 and 10 minute slots)
 - What’s next for 2023+ (Vision and Goals)
-- Afternoon. Unconference. BBQ style. You make the menu.
+- Afternoon Session. Unconference. 
+  - BBQ style. You make the menu.
 
 Tuesday 13 September
 - docs.taxonworks.org What's New and Your Role.
@@ -61,9 +62,9 @@ Wednesday 14 September
   - More students
 - The TaxonWorks MOU review and (the Give Button)
 - The AntWeb experience
-- Afternoon.
+- Afternoon Session
   - Working BBQs: Sources, People Data, ?
--TaxonWorks LateNite
+- TaxonWorks LateNite
 
 
 
