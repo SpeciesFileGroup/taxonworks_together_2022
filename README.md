@@ -32,3 +32,34 @@ _Scheduled events are subject to minor changes_.  All events will have question 
 
 ## Agenda
 The agenda is in development. Activities, events, ideas welcome. [Submit them here](https://forms.gle/3gDTwwJJ9R838DZn8)
+
+Work-in-progress on the agenda. A brief outline follows (items may shift days, other items may be added).
+
+Monday 12 September
+- Introduction. The state of all things SFG > focus on TaxonWorks and 2021+ highlights
+- Community Talks Lightning use cases (5 and 10 minute slots)
+- What’s next for 2023+ (Vision and Goals)
+- Afternoon. Unconference. BBQ style. You make the menu.
+
+Tuesday 13 September
+- docs.taxonworks.org What's New and Your Role.
+- TaxonWorks In the Broader Ecosystem
+  - Exposing the model, the Digital Extended Specimen, the evolving GBIF data model, Plazi
+- Collection Objects from local TaxonWorks to global GBIF - a major milestone 
+- Spinoffs - tools emerging in the TaxonWorks ecosystem (MJY 20 + discussion )
+  - "Publish" your own data: Keys ('distinguish'), TaxonPages, Taxonomic Catalogs
+- Linking it all - How APIs might converge with an example in n8n (Geoff - 20)
+- Afternoon Session
+  - Demo of TaxonPages publication, create your own Pages from your TaxonWorks Instance
+  - Demo of 'distinguish' publication, create your own Key/s
+  - Ticket BBQ
+
+Wednesday 14 September
+
+- A student-focused session. Looking for the intersections between student's biodiversity data workflows and the TaxonWorks workbench
+  - Davide Dal Pos, an Ichneumonid Experience
+  - More students
+- TaxonWorks LateNite
+
+
+
