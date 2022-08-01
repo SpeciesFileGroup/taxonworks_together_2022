@@ -59,7 +59,11 @@ Wednesday 14 September
 - A student-focused session. Looking for the intersections between student's biodiversity data workflows and the TaxonWorks workbench
   - Davide Dal Pos, an Ichneumonid Experience
   - More students
-- TaxonWorks LateNite
+- The TaxonWorks MOU review and (the Give Button)
+- The AntWeb experience
+- Afternoon.
+  - Working BBQs: Sources, People Data, ?
+-TaxonWorks LateNite
 
 
 
