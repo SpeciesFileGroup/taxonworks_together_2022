@@ -5,7 +5,7 @@
 
 
 Sessions daily, September 12-14, on Zoom.  
-Getting here early? Add [an issue or idea for TWTogether 2022](https://github.com/SpeciesFileGroup/taxonworks_together_2022/issues). Questions? Chat now on [![Gitter][3]][2]
+Getting here early? Add [an issue or idea for TWTogether 2022](https://github.com/SpeciesFileGroup/taxonworks_together_2022/issues). Questions? Chat now on [Gitter](https://gitter.im/SpeciesFileGroup/taxonworks)
 
 Registration Form here soon! You'll be emailed Zoom link(s) prior to the events.
 
