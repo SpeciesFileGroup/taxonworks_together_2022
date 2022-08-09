@@ -33,38 +33,33 @@ _Scheduled events are subject to minor changes_.  All events will have question 
 ## Agenda
 The agenda is in development. Activities, events, ideas welcome. [Submit them here](https://forms.gle/3gDTwwJJ9R838DZn8)
 
-Work-in-progress on the agenda. A brief outline follows (items may shift days, other items may be added).
-
-Monday 12 September
-- Introduction. The state of all things SFG > focus on TaxonWorks and 2021+ highlights
-- Community Talks Lightning use cases (5 and 10 minute slots)
-- What’s next for 2023+ (Vision and Goals)
-- Afternoon Session. Unconference. 
-  - BBQ style. You make the menu.
-
-Tuesday 13 September
-- docs.taxonworks.org What's New and Your Role.
-- TaxonWorks In the Broader Ecosystem
-  - Exposing the model, the Digital Extended Specimen, the evolving GBIF data model, Plazi
-- Collection Objects from local TaxonWorks to global GBIF - a major milestone 
-- Spinoffs - tools emerging in the TaxonWorks ecosystem (MJY 20 + discussion )
-  - "Publish" your own data: Keys ('distinguish'), TaxonPages, Taxonomic Catalogs
-- Linking it all - How APIs might converge with an example in n8n (Geoff - 20)
-- Afternoon Session
-  - Demo of TaxonPages publication, create your own Pages from your TaxonWorks Instance
-  - Demo of 'distinguish' publication, create your own Key/s
-  - Ticket BBQ
-
-Wednesday 14 September
-
-- A student-focused session. Looking for the intersections between student's biodiversity data workflows and the TaxonWorks workbench
-  - Davide Dal Pos, an Ichneumonid Experience
-  - More students
-- The TaxonWorks MOU review and (the Give Button)
-- The AntWeb experience
-- Afternoon Session
-  - Working BBQs: Sources, People Data, ?
-- TaxonWorks LateNite
-
-
-
+| UTC  | CDT | Topic  | Who  | notes |
+|----------------------------------------------------------------------|----------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|----------------------------------------------------------|
+| Monday 12 September 2022 - The Big Picture ||||
+| 19:45-20:00 | 14:45-15:00 | Logistics  | Collaborative  |                                                          |
+| 20:00 - 20:15 | 15:00-15:15 | Introduction and State of All Things SFG: highlights of 2021+  | Matt Yoder, others?  |   |
+| 20:15-20:30   | 15:15-15:30  | Quick hits. A blitz of features new and old, including those you might have missed. | Matt Driving, with the TW user community throwing out highlights in chat that we pivot. |                                                          |
+| 20:30-21:00  | 15:30-16:00    | Discussion |  |  |
+| 21:00  | 16:00 | TaxonWorks Community Speaks | Jim Woolley (15)<br>Davide Dal Pos (15) Brian Fisher (15) Belen (15) Donald Hobern (20)     |  |
+| 22:30-23:00 | 17:30-18:00 | Community Discussion with the speakers | | |
+|  |   |  | |                                                          |
+| Tuesday 13 September 2022 - The TaxonWorks Ecosystem |   |  |   |                                                          |
+| 14:00   | 09:00  | docs.taxonworks.org Present state, additions, highlights.  Routes to join us! | Deborah Paul, Matt Yoder (15) | See corresponding in-action in the afternoon.|
+| 14:30    | 9:30  | From CO to GBIF: local to global impact  | Tommy McElrath (20)  |                                                          |
+| 15:00-15:30   | 10:00 - 10:30  | Spinoffs - tools emerging in the TaxonWorks ecosystem 5 minute quick hits.<br> - Keys (Dmitry)<br> - TaxonPages (José)<br> - Taxonomic Catalogs (Matt/Dmitry)<br> - API scripts, workflow (Kojun 5-10)<br> | Collaborative   | See corresponding in-action in the afternoon.  |
+| 15:30-15:45   | 10:30 - 10:45  | Short Break | |
+| 15:45-16:30    | 10:45 - 11:30  | Linking it all: A practical exploration of linking Biodiversity Informatics APIs using n8n  | Geoff Ower ||
+| |  | BREAK |  |                                                          |
+| 18:30   | 13:30 - ??| TaxonWorks Unconference I: open topics voted on to start.<br> - Creating TaxonPages (José, Matt, Hernán)<br> - Create Keys using distinguish (José, Matt, Hernán) |   |     |
+| Wednesday 14 September 2022 - Community curation, growing TaxonWorks |  |  | |  |
+|  | Morning |  | | |
+| 15:00-15:30   | 10:00-10:30   | UCD BBQ Experience: processing sources together | Luke Kresslein James Woolley John Heraty | What’s a BBQ anyway and how is this working for the UCD? |
+| 15:30-15:45  | 10:30-10:45  | 3i experience  |  |   |
+|  |  | Student section?  | Davide Dal Pos<br> Thiago Silva?<br>  Emily Struckoff?|  |
+|| | YOUR TOPICS HERE!   |   |                                                          |
+| 16:30  | 11:30 | What's next? TaxonWorks in 2023.   | Matt Yoder, others?   |
+| 17:00-18:15   | 12:00-12:15    | BREAK    |     |                                                          |
+| 18:15  | 12:15    | "Species File Group Business Meeting". Reviewing collaboration with Species File Group for new and existing partners using TaxonWorks and other SFG efforts.   | Matt Yoder, Ed(?)  ||
+| | Afternoon  |  |    |  |
+| 19:15  | 14:15   | TaxonWorks Unconference II: Possible open topics: <br> - Setting up a BBQ<br> - People<br> - Sources<br> - Tickets<br> - API Coding<br> - Install<br> - Continuation of Tuesday topics<br> - Issues/tickets Yours?    |    |    |
+|    | |    |     |    |
