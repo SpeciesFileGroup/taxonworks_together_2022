@@ -42,7 +42,7 @@ The agenda is in development. Activities, events, ideas welcome. [Submit them he
 | 20:00 - 20:15 | 15:00-15:15 | Introduction and State of All Things SFG: highlights of 2021+  | Matt Yoder, others?  |   |
 | 20:15-20:30   | 15:15-15:30  | Quick hits. A blitz of features new and old, including those you might have missed. | Matt Driving, with the TW user community throwing out highlights in chat that we pivot. |                                                          |
 | 20:30-21:00  | 15:30-16:00    | Discussion |  |  |
-| 21:00  | 16:00 | TaxonWorks Community Speaks | Jim Woolley (15)<br>Davide Dal Pos<br> Emily Struckhoff (15)<br> (15) Brian Fisher (15) Belen (15) Donald Hobern (20)     |  |
+| 21:00  | 16:00 | TaxonWorks Community Speaks | Jim Woolley (15)<br> Davide Dal Pos (15)<br> Emily Struckhoff (15)<br> Brian Fisher (15)<br> Belén Cabrera (15) <br> Donald Hobern (20)     |  |
 | 22:30-23:00 | 17:30-18:00 | Community Discussion with the speakers | | |
 |  |   |  | |                                                          |
 | Tuesday 13 September 2022 - The TaxonWorks Ecosystem |   |  |   |                                                          |
