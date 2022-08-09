@@ -4,15 +4,17 @@
 <img src="https://user-images.githubusercontent.com/2990155/180293554-0e8958ca-cbf8-4620-a4a7-3f6bd87df0e6.png" width="150" align="right"/>
 
 
-Sessions daily, September 12-14, on Zoom.  
+Sessions daily, 12-14 September on Zoom.  
 Getting here early? Add [an issue or idea for TWTogether 2022](https://github.com/SpeciesFileGroup/taxonworks_together_2022/issues).<br>
 Questions? Chat now on [Gitter](https://gitter.im/SpeciesFileGroup/taxonworks)<br>
 Short URL for this page https://tinyurl.com/twt-2022
 
-Registration Form here soon! You'll be emailed Zoom link(s) prior to the events.
+[TWT2022 Registration Form](https://illinois.zoom.us/meeting/register/tZcsduutqTktE9XYiaZKV0Lb4zhbs9SXmvT3)  
+When you register, you'll get your Zoom link for the meeting.  
+Thanks for joining us and inviting your colleagues and students.
 
 # What
-Our 3rd TaxonWorks Together event (12 - 14 September 2022). Join us for three half-days of activities centered around building the [TaxonWorks](http://taxonworks.org) community.  We'll focus on sharing our latest developments (e.g. progress on public pages, publishing interactive keys, automating workflows, building your taxonomic community, and ways to track project activity) learning from those using or experimenting with TaxonWorks in their taxonomic and digitization workflows. As always, we invite new audiences to join us to gather insights for tailoring future directions. Expect lots of opportunities to ask questions, meet others, learn about TaxonWorks, and contribute to the work and conversation. These activities are open events and your feedback and contributions will make a difference. Some activities will be highly guided, some information style, and some unconference style.   
+Our 3rd TaxonWorks Together event (12 - 14 September 2022). Join us for three days of activities centered around building the [TaxonWorks](http://taxonworks.org) community. We'll focus on sharing our latest developments (e.g. progress on public pages, publishing interactive keys, automating workflows, building your taxonomic community, and ways to track project activity) learning from those using or experimenting with TaxonWorks in their taxonomic and digitization workflows. As always, we invite new audiences to join us to gather insights for tailoring future directions. Expect lots of opportunities to ask questions, meet others, learn about TaxonWorks, and contribute to the work and conversation. These activities are open events and your feedback and contributions will make a difference. Some activities will be highly guided, some information style, and some unconference style.   
  - #### Questions
    Send email to dlpaul AT illinois DOT edu
 # Who
