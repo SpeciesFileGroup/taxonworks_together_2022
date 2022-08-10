@@ -40,33 +40,34 @@ The agenda is in development. Activities, events, ideas welcome. [Submit them he
 | UTC  | CDT | Topic  | Who  | notes |
 |:----------------------------------------------------------------------|:----------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|:------------------------------------------------------|
 | Monday 12 September 2022 ||**The Big Picture**||
-| 19:45-20:00 | 14:45-15:00 | Logistics  | Collaborative  |                                                          |
-| 20:00 - 20:15 | 15:00-15:15 | Introduction and State of All Things SFG: highlights of 2021+  | Matt Yoder, others?  |   |
-| 20:15-20:30   | 15:15-15:30  | Quick hits. A blitz of features new and old, including those you might have missed. | Matt Driving, with the TW user community throwing out highlights in chat that we pivot. |                                                          |
-| 20:30-21:00  | 15:30-16:00    | Discussion |  |  |
-| 21:00  | 16:00 | TaxonWorks Community Speaks | Jim Woolley (15)<br> Davide Dal Pos (15)<br> Emily Struckhoff (15)<br> Brian Fisher (15)<br> Belén Cabrera (15) <br> Donald Hobern (20)     |  |
+| 18:45-19:00 | 13:45-14:00 | Logistics  | Collaborative  |                                                          |
+| 19:00 - 19:15 | 14:00-14:15 | Introduction and State of All Things SFG: highlights of 2021+  | Matt Yoder, others?  |   |
+| 19:15 - 19:30 | 14:15-14:30 | Quick hits. A blitz of features new and old, including those you might have missed. | Matt Driving, with the TW user community throwing out highlights in chat that we pivot. |                                                          |
+| 19:30-20:00  | 14:30-15:00    | Discussion |  |  |
+| 20:00  | 15:00 | TaxonWorks Community Speaks | Jim Woolley<br> Davide Dal Pos<br> Emily Struckhoff<br> Brian Fisher<br> Belén Cabrera<br> Donald Hobern    |  |
 | 22:30-23:00 | 17:30-18:00 | Community Discussion with the speakers | | |
 |  |   |  | | |
 | **UTC**  | **CDT** | **Topic**  |**Who**  | **notes** |
 | Tuesday 13 September 2022 |   |**The TaxonWorks Ecosystem** |   |                                                          |
-| 14:00   | 09:00  | docs.taxonworks.org Present state, additions, highlights.  Routes to join us! | Deborah Paul, Matt Yoder (15) | See corresponding in-action in the afternoon.|
-| 14:30    | 9:30  | From CO to GBIF: local to global impact  | Tommy McElrath (20)  |                                                          |
-| 15:00-15:30   | 10:00 - 10:30  | Spinoffs - tools emerging in the TaxonWorks ecosystem 5 minute quick hits.<br> - Keys (Dmitry)<br> - TaxonPages (José)<br> - Taxonomic Catalogs (Matt/Dmitry)<br> - API scripts, workflow (Kojun 5-10)<br> | Collaborative   | See corresponding in-action in the afternoon.  |
-| 15:30-15:45   | 10:30 - 10:45  | Short Break | |
-| 15:45-16:30    | 10:45 - 11:30  | Linking it all: A practical exploration of linking Biodiversity Informatics APIs using n8n  | Geoff Ower ||
-| |  | BREAK |  |                                                          |
-| 18:30   | 13:30 - ??| TaxonWorks Unconference I: open topics voted on to start.<br> - Creating TaxonPages (José, Matt, Hernán)<br> - Create Keys using distinguish (José, Matt, Hernán) |   |     |
+| 14:00   | 09:00  | docs.taxonworks.org Present state, additions, highlights.  Routes to join us! | Deborah Paul, Matt Yoder | See corresponding in-action in the afternoon.|
+| 14:30    | 9:30  | From CO to GBIF: local to global impact  | Tommy McElrath |                                                          |
+| 15:00-16:00   | 10:00 - 11:00  | Spinoffs - tools emerging in the TaxonWorks ecosystem 5 minute quick hits.<br> - Keys (Dmitry)<br> - TaxonPages (José)<br> - Taxonomic Catalogs (Matt/Dmitry)<br> - API scripts, workflow (Kojun)<br> | Collaborative   | See corresponding in-action in the afternoon.  |
+| 16:00-16:15  | 11:00 - 11:15  | BREAK | |
+| 16:15-17:00  | 11:15 - 12:00  | Linking it all: A practical exploration of linking Biodiversity Informatics APIs using n8n  | Geoff Ower ||
+| 17:00-18:30 | 12:00-13:30 | BREAK |  |                                                          |
+| 18:30   | 13:30 - ?? | TaxonWorks Unconference I: open topics voted on to start.<br> - Creating TaxonPages (José, Matt, Hernán)<br> - Create Keys using distinguish (José, Matt, Hernán) |   |     |
 |  |   |  | | |
 | **UTC**  | **CDT** | **Topic**  |**Who**  | **notes** |
 | Wednesday 14 September 2022 |  |**Community curation, Growing TaxonWorks** | |  |
 |  | Morning |  | | |
-| 15:00-15:30   | 10:00-10:30   | UCD BBQ Experience: processing sources together | Luke Kresslein<br> James Woolley<br> John Heraty | What’s a BBQ anyway and how is this working for the UCD? |
+| 14:00-14:30 | 09:00-9:30 | What's Next? TaxonWorks in 2023+ | Matt Yoder, others ||
+| 15:00-15:30 | 10:00-10:30 | UCD BBQ Experience: processing sources together | Luke Kresslein<br> James Woolley<br> John Heraty | What’s a BBQ anyway and how is this working for the UCD? |
 | 15:30-15:45  | 10:30-10:45  | 3i experience  |  |   |
-|  |  | Student section?  | Davide Dal Pos<br> Emily Struckoff|  |
-|| | YOUR TOPICS HERE!   |   |                                                          |
-| 16:30  | 11:30 | What's next? TaxonWorks in 2023.   | Matt Yoder, others?   |
+| | 11:00-11:15| BREAK |||
+|  | 11:15-12:00  | The Student's View  | Davide Dal Pos<br> Emily Struckoff |  |
+|| | YOUR TOPICS HERE!<br> **3 Minutes 1 Slide**  |   |                                                          |
 | 17:00-18:15   | 12:00-12:15    | BREAK    |     |                                                          |
-| 18:15  | 12:15    | "Species File Group Business Meeting". Reviewing collaboration with Species File Group for new and existing partners using TaxonWorks and other SFG efforts.   | Matt Yoder, Ed(?)  ||
+| 18:15-19:15  | 12:15-1:15    | "Species File Group Business Meeting". Reviewing collaboration with Species File Group for new and existing partners using TaxonWorks and other SFG efforts.   | Matt Yoder, Ed(?)  ||
 | | Afternoon  |  |    |  |
-| 19:15  | 14:15   | TaxonWorks Unconference II: Possible open topics: <br> - Setting up a BBQ<br> - People<br> - Sources<br> - Tickets<br> - API Coding<br> - Install<br> - Continuation of Tuesday topics<br> - Issues/tickets Yours?    |    |    |
+| 19:15  | 14:15  - ??  | TaxonWorks Unconference II: Possible open topics: <br> - Setting up a BBQ<br> - People<br> - Sources<br> - Tickets<br> - API Coding<br> - Install<br> - Continuation of Tuesday topics<br> - Issues/tickets Yours?    |    |    |
 |    | |    |     |    |
