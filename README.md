@@ -9,7 +9,7 @@ Getting here early? Add [an issue or idea for TWTogether 2022](https://github.co
 Questions? Chat now on [Gitter](https://gitter.im/SpeciesFileGroup/taxonworks)<br>
 Short URL for this page https://tinyurl.com/twt-2022
 
-<!--[TWT2022 Registration Form](https://illinois.zoom.us/meeting/register/tZcsduutqTktE9XYiaZKV0Lb4zhbs9SXmvT3) --> 
+**[TWT2022 Registration Form](https://illinois.zoom.us/meeting/register/tZcsduutqTktE9XYiaZKV0Lb4zhbs9SXmvT3)**  
 When you register, you'll get your Zoom link for the meeting.  
 Thanks for joining us and inviting your colleagues and students.
 
