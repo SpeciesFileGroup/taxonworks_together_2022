@@ -55,7 +55,7 @@ The agenda is in development. Activities, events, ideas welcome. [Submit them he
 | 16:00-16:15  | 11:00 - 11:15  | BREAK | |
 | 16:15-17:00  | 11:15 - 12:00  | Linking it all: A practical exploration of linking Biodiversity Informatics APIs using n8n  | Geoff Ower ||
 | 17:00-18:30 | 12:00-13:30 | BREAK |  |                                                          |
-| 18:30   | 13:30 - ?? | TaxonWorks Unconference I: open topics voted on to start.<br> - Creating TaxonPages (José, Matt, Hernán)<br> - Create Keys using distinguish (José, Matt, Hernán) |   |     |
+| 18:30   | 13:30 - ?? | TaxonWorks Unconference I: open topics voted on to start.<br> - Creating TaxonPages (José, Matt, Hernán)<br> - Create Keys using distinguish (José, Matt, Hernán)<br> - Create Matrices in TaxonWorks |   |     |
 |  |   |  | | |
 | **UTC**  | **CDT** | **Topic**  |**Who**  | **notes** |
 | Wednesday 14 September 2022 |  |**Community curation, Growing TaxonWorks** | |  |
