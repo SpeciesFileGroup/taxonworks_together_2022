@@ -62,9 +62,9 @@ The agenda is in development. Activities, events, ideas welcome. [Submit them he
 |  | Morning |  | | |
 | 14:00-14:30 | 09:00-9:30 | What's Next? TaxonWorks in 2023+ | Matt Yoder, others ||
 | 15:00-15:30 | 10:00-10:30 | UCD BBQ Experience: processing sources together | Luke Kresslein<br> James Woolley<br> John Heraty | What’s a BBQ anyway and how is this working for the UCD? |
-| 15:30-16:00  | 10:30-11:00  | 3i experience  | Saad Ahmed |   |
+| 15:30-16:00  | 10:30-11:00  | 3i experience  | Saad A. El-Sonbati |   |
 | | 11:00-11:05| BREAK |||
-|  | 11:05-12:00  | The Student's View  | Davide Dal Pos<br> Emily Struckoff<br> Saad Ahmed |  |
+|  | 11:05-12:00  | The Student's View  | Davide Dal Pos<br> Emily Struckoff<br> Saad A. El-Sonbati |  |
 || | YOUR TOPICS HERE!<br> **3 Minutes 1 Slide**  |   |                                                          |
 | 17:00-18:15   | 12:00-12:15    | BREAK    |     |                                                          |
 | 18:15-19:15  | 12:15-1:15    | "Species File Group Business Meeting". Reviewing collaboration with Species File Group for new and existing partners using TaxonWorks and other SFG efforts.   | Matt Yoder, Ed(?)  ||
