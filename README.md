@@ -67,7 +67,7 @@ The agenda is in development. Activities, events, ideas welcome. [Submit them he
 |  | 11:05-12:00  | The Student's View  | Davide Dal Pos<br> Emily Struckoff<br> Saad A. El-Sonbati |  |
 || | YOUR TOPICS HERE!<br> **3 Minutes 1 Slide**  | Megan McCuller |                                                          |
 | 17:00-18:15   | 12:00-12:15    | BREAK    |     |                                                          |
-| 18:15-19:15  | 12:15-1:15    | "Species File Group Business Meeting". Reviewing collaboration with Species File Group for new and existing partners using TaxonWorks and other SFG efforts.   | Matt Yoder, Ed(?)  ||
+| 18:15-19:15  | 12:15-1:15    | "Species File Group Business Meeting". Reviewing collaboration with Species File Group for new and existing partners using TaxonWorks and other SFG efforts.   | Matt Yoder, Ed DeWalt  ||
 | | Afternoon  |  |    |  |
 | 19:15  | 14:15  - ??  | TaxonWorks Unconference II: Possible open topics: <br> - Setting up a BBQ<br> - People<br> - Sources<br> - Tickets<br> - API Coding<br> - Install<br> - Continuation of Tuesday topics<br> - Issues/tickets Yours?    |    |    |
 |    | |    |     |    |
