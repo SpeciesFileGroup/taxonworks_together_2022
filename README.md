@@ -18,33 +18,34 @@ Our 3rd TaxonWorks Together event (12 - 14 September 2022). Join us for three da
  - #### Questions
    Send email to dlpaul AT illinois DOT edu
 # Who
-Taxonomists, ecologists, curators, collection managers, software developers, biodiversity information scientists. If you have questions about TaxonWorks this is a great time to ask them. Whether you are very familiar with TaxonWorks or new to our community, all are welcome.
+Taxonomists, students, ecologists, curators, collection managers, software developers, biodiversity information scientists. If you have questions about TaxonWorks this is a great time to ask them. Whether you are very familiar with TaxonWorks or new to our community, all are welcome.
 
 # How
 
 Before the event steps
-1. Register (coming soon). You'll be emailed Zoom link(s) prior to/during the events.
+1. Register (see link above) which sends you your Zoom link.
 2. **Get a TaxonWorks account** to discover TaxonWorks now -- it's **ready-to-use, no software installation needed.** Send email to dlpaul AT illinois DOT edu
 3. Get a [Github account](https://github.com) (not required, but recommended), an account will help you better participate in many aspects of the community.
 4. New to TaxonWorks? Learn about TaxonWorks features and functions via the [TaxonWorks YouTube videos](https://www.youtube.com/channel/UCKNr7QYwvVFcRfQAcMEAhLw)
 5. [Post ideas, requests, questions](https://github.com/SpeciesFileGroup/taxonworks_together_2021/issues) to be tackled during the week
 6. If you are software developer and you want to hack TaxonWorks itself, please start reading [install_taxonworks](https://github.com/SpeciesFileGroup/install_taxonworks/blob/master/development/README.md). You Don't Need To Install TW locally to use it. (See number 2 above). 
 8. **3 Minutes 1 Slide**: If you would like to present your insights or ideas on a given topic about TaxonWorks, let us know! We'll work it in or add to our post-TaxonWorks Together events. Send email to dlpaul AT illinois DOT edu
-9. Notes doc (coming soon) for TaxonWorks Together 2022
+9. [Notes doc](https://docs.google.com/document/d/16kdlAxFoS0Hr-VzmiCQWaJVQa6kd4xyQ17zdxRSK8hE/edit?usp=sharing) (accessible on Monday) for TaxonWorks Together 2022
 
 _Scheduled events are subject to minor changes_.  All events will have question / answer / discussion time.
 
 ## Agenda
-The agenda is in development. Activities, events, ideas welcome. [Submit them here](https://forms.gle/3gDTwwJJ9R838DZn8)
+The agenda is generated from your ideas and needs. Activities, events, ideas always welcome. [Submit them here](https://forms.gle/3gDTwwJJ9R838DZn8)
 
 | UTC  | CDT | Topic  | Who  | notes |
 |:----------------------------------------------------------------------|:----------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|:------------------------------------------------------|
 | Monday 12 September 2022 ||**The Big Picture**||
 | 18:45-19:00 | 13:45-14:00 | Logistics  | Collaborative  |                                                          |
-| 19:00 - 19:15 | 14:00-14:15 | Introduction and State of All Things SFG: highlights of 2021+  | Matt Yoder, others?  |   |
-| 19:15 - 19:30 | 14:15-14:30 | Quick hits. A blitz of features new and old, including those you might have missed. | Matt Driving, with the TW user community throwing out highlights in chat that we pivot. |                                                          |
+| 19:00 - 19:15 | 14:00-14:15 | Introduction and State of All Things SFG: highlights of 2021+  | Matt Yoder  |   |
+| 19:15 - 19:30 | 14:15-14:30 | Quick hits. A blitz of features new and old, including those you might have missed. | Matt driving, with the TW user community throwing out highlights in chat that we pivot. |                                                          |
 | 19:30-20:00  | 14:30-15:00    | Discussion |  |  |
-| 20:00  | 15:00 | TaxonWorks Community Speaks | Jim Woolley<br> Davide Dal Pos<br> Emily Struckhoff<br> Brian Fisher<br> Belén Cabrera<br> Donald Hobern    |  |
+| 20:00-20:15  | 15:00-15:15    | BREAK |||
+| 20:15  | 15:15 | TaxonWorks Community Speaks | Jim Woolley<br> Davide Dal Pos<br> Emily Struckhoff<br> Brian Fisher<br> Belén Cabrera<br> Donald Hobern    |  |
 | 22:30-23:00 | 17:30-18:00 | Community Discussion with the speakers | | |
 |  |   |  | | |
 | **UTC**  | **CDT** | **Topic**  |**Who**  | **notes** |
@@ -55,7 +56,7 @@ The agenda is in development. Activities, events, ideas welcome. [Submit them he
 | 16:00-16:15  | 11:00 - 11:15  | BREAK | |
 | 16:15-17:00  | 11:15 - 12:00  | Linking it all: A practical exploration of linking Biodiversity Informatics APIs using n8n  | Geoff Ower ||
 | 17:00-18:30 | 12:00-13:30 | BREAK |  |                                                          |
-| 18:30   | 13:30 - ?? | TaxonWorks Unconference I: open topics voted on to start.<br> - Creating TaxonPages (José, Matt, Hernán)<br> - Create Keys using distinguish (José, Matt, Hernán)<br> - Create Matrices in TaxonWorks |   |     |
+| 18:30   | 13:30 - ?? | TaxonWorks Unconference I: open topics voted on to start.<br> - Creating TaxonPages (José, Matt, Hernán)<br> - Create Keys using distinguish (José, Matt, Hernán)<br> - Create Matrices in TaxonWorks<br> - TaxonWorks Gira in Español (Jennifer Girón) |   |     |
 |  |   |  | | |
 | **UTC**  | **CDT** | **Topic**  |**Who**  | **notes** |
 | Wednesday 14 September 2022 |  |**Community curation, Growing TaxonWorks** | |  |
@@ -69,5 +70,5 @@ The agenda is in development. Activities, events, ideas welcome. [Submit them he
 | 17:00-18:15   | 12:00-12:15    | BREAK    |     |                                                          |
 | 18:15-19:15  | 12:15-1:15    | "Species File Group Business Meeting". Reviewing collaboration with Species File Group for new and existing partners using TaxonWorks and other SFG efforts.   | Matt Yoder, Ed DeWalt  ||
 | | Afternoon  |  |    |  |
-| 19:15  | 14:15  - ??  | TaxonWorks Unconference II: Possible open topics: <br> - Setting up a BBQ<br> - People<br> - Sources<br> - Tickets<br> - API Coding<br> - Install<br> - Continuation of Tuesday topics<br> - Issues/tickets Yours?    |    |    |
+| 19:15  | 14:15  - ??  | TaxonWorks Unconference II: Possible open topics: <br> - Setting up a BBQ<br> - People<br> - Sources<br> - Tickets<br> - API Coding<br> - Install<br> - Continuation of Tuesday topics<br> - TaxonWorks Gira in Español (Jennifer Girón)<br> - Issues/tickets Yours?    |    |    |
 |    | |    |     |    |
