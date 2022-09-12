@@ -40,9 +40,9 @@ The agenda is generated from your ideas and needs. Activities, events, ideas alw
 | UTC  | CDT | Topic  | Who  | notes |
 |:----------------------------------------------------------------------|:----------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|:-----------------------------------------------------------------------------------------|:------------------------------------------------------|
 | Monday 12 September 2022 ||**The Big Picture**||
-| 18:45-19:00 | 13:45-14:00 | Logistics  | Collaborative  |                                                          |
-| 19:00 - 19:15 | 14:00-14:15 | Introduction and State of All Things SFG: highlights of 2021+  | Matt Yoder  |   |
-| 19:15 - 19:30 | 14:15-14:30 | Quick hits. A blitz of features new and old, including those you might have missed. | Matt driving, with the TW user community throwing out highlights in chat that we pivot. |                                                          |
+| 18:45-19:00 | 13:45-14:00 | [Logistics](https://docs.google.com/presentation/d/1s7T5M7r7yHc_4tg_1uWf2mIUazaNB0ZHfBArurmGpDE/edit?usp=sharing)  | Collaborative  |                                                          |
+| 19:00 - 19:15 | 14:00-14:15 | [Introduction and State of All Things SFG: highlights of 2021+](https://docs.google.com/presentation/d/1Tn-opvr6l6O01qvNBhBR73JCExrpnW3P6W9_sjY4hWs/edit?usp=sharing)  | Matt Yoder  |   |
+| 19:15 - 19:30 | 14:15-14:30 | [Quick hits. A blitz of features new and old, including those you might have missed.](https://docs.google.com/presentation/d/1TjPbQ8tSePN9FAl4gWviCv6Od7DPbTB4NUaILi8tufw/edit#slide=id.p) | Matt driving, with the TW user community throwing out highlights in chat that we pivot. |                                                          |
 | 19:30-20:00  | 14:30-15:00    | Discussion |  |  |
 | 20:00-20:15  | 15:00-15:15    | BREAK |||
 | 20:15  | 15:15 | TaxonWorks Community Speaks | Jim Woolley<br> Davide Dal Pos<br> Emily Struckhoff<br> Brian Fisher<br> Belén Cabrera<br> Donald Hobern    |  |
