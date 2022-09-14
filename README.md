@@ -70,5 +70,5 @@ The agenda is generated from your ideas and needs. Activities, events, ideas alw
 | 17:00-18:15   | 12:00-12:15    | BREAK    |     |                                                          |
 | 18:15-19:15  | 12:15-1:15    | "Species File Group Business Meeting". Reviewing collaboration with Species File Group for new and existing partners using TaxonWorks and other SFG efforts.   | Matt Yoder, Ed DeWalt  ||
 | | Afternoon  |  |    |  |
-| 19:15  | 14:15  - ??  | TaxonWorks Unconference II: Possible open topics: <br> - Setting up a BBQ<br> - People<br> - Sources<br> - Tickets<br> - API Coding<br> - Install<br> - Continuation of Tuesday topics<br> - TaxonWorks Gira in Español (Jennifer Girón)<br> - Issues/tickets Yours?    |    |    |
+| 19:15  | 14:15  - ??  | TaxonWorks Unconference II: Possible open topics: <br> - Setting up a BBQ<br> - People<br> - Sources<br> - Tickets<br> - API Coding<br> - Install<br> - Continuation of Tuesday topics<br> - TaxonWorks Gira in Español (Jennifer Girón)<br> - Open Digitization, let's digitize! (Tommy McElrath)<br> -Issues/tickets Yours?    |    |    |
 |    | |    |     |    |
