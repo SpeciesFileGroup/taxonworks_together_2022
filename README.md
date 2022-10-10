@@ -54,7 +54,7 @@ The agenda is generated from your ideas and needs. Activities, events, ideas alw
 | 14:30    | 9:30  | From CO to GBIF: local to global impact<br><br>[TW YouTube Recording](https://youtu.be/FaykRv8rMBg)  | Tommy McElrath |                                                          |
 | 15:00-16:00   | 10:00 - 11:00  | Spinoffs - tools emerging in the TaxonWorks ecosystem 5 minute quick hits.<br> - Keys (Dmitry)<br> - TaxonPages (José)<br> - Taxonomic Catalogs (Matt/Dmitry)<br> - API scripts, workflow (Kojun)<br> | Collaborative   | See corresponding in-action in the afternoon.  |
 | 16:00-16:15  | 11:00 - 11:15  | BREAK | |
-| 16:15-17:00  | 11:15 - 12:00  | Linking it all: A practical exploration of linking Biodiversity Informatics APIs using n8n  | Geoff Ower ||
+| 16:15-17:00  | 11:15 - 12:00  | Linking it all: A practical exploration of linking Biodiversity Informatics APIs using n8n<br><br>[TW YouTube Recording](https://youtu.be/QW6V1uQpivo)  | Geoff Ower ||
 | 17:00-18:30 | 12:00-13:30 | BREAK |  |                                                          |
 | 18:30   | 13:30 - ?? | TaxonWorks Unconference I: open topics voted on to start.<br> - Creating TaxonPages (José, Matt, Hernán)<br> - Create Keys using distinguish (José, Matt, Hernán)<br> - Create Matrices in TaxonWorks<br> - TaxonWorks Gira in Español (Jennifer Girón) |   |     |
 |  |   |  | | |
